@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gridblue
 - 👀 I’m interested in Machine Learning and Artificial Intelligence.
 - 🌱 I’m currently learning python, pandas, tensorflow, scikitlearn.
-- 💞️ I’m looking to collaborate on data science and AI modelling.
+- 💞️ I’m looking to collaborate on data science, Computer Vision and AI modeling.
 - 📫 How to reach me --> tejussrao.work@gmail.com
 
 <!---
